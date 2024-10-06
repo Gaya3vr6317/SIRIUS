@@ -61,39 +61,39 @@ Encouraging Curiosity: By making complex astronomical data accessible, the softw
 Evolving Content: As new discoveries are made and more data becomes available, the software can be updated with new images, quizzes, and features, ensuring that users have access to the latest information from the JWST.
 
 # Libraries Used
-1.Three.js
-2.GLTFLoader (part of Three.js)
-3.OrbitControls (part of Three.js)
-4.WebGL
-5.Pillow (PIL)
-6.Tkinter
-7.HTML/CSS/JavaScript
-8.Web Audio API
-9.AJAX
-10.PyMySQL
-11.PyGame
-12.plotly
-13.math
-14.numpy
+1) Three.js
+2) GLTFLoader (part of Three.js)
+3) OrbitControls (part of Three.js)
+4) WebGL
+5) Pillow (PIL)
+6) Tkinter
+7) HTML/CSS/JavaScript
+8) Web Audio API
+9) AJAX
+10) PyMySQL
+11) PyGame
+12) plotly
+13) math
+14) numpy
 
 # How to configure
-1.Set Up the Development Environment
-2.Install Required Libraries
-3.Clone or Download Project Files
-4.Organize Project Structure
-5.Run the Application
-6.Access the 3D Viewer
-7.Run the Quiz
-8.Additional Configuration (if needed)
+1) Set Up the Development Environment
+2) Install Required Libraries
+3) Clone or Download Project Files
+4) Organize Project Structure
+5) Run the Application
+6) Access the 3D Viewer
+7) Run the Quiz
+8) Additional Configuration (if needed)
 
 # How to Run
-1.Launch the Application
-2.Navigate to the Desired Feature
-3.Interact with the 3D Models
-4.Explore Image Galleries
-5.Take Quizzes
-6.Provide Feedback
-7.Close the Application
+1) Launch the Application
+2) Navigate to the Desired Feature
+3) Interact with the 3D Models
+4) Explore Image Galleries
+5) Take Quizzes
+6) Provide Feedback
+7) Close the Application
 
 # FUTURE PLANS
 ## Future Aims ##
